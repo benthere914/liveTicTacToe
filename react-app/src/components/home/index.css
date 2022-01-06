@@ -5,3 +5,7 @@ h1 {
 .rows{
     display: flex;
 }
+
+.cols{
+    cursor: pointer;
+}
